@@ -8,7 +8,4 @@
 - 😄 estudo em periodo **integral e estou no __1ano__ do ensino medio**
 - ⚡ moro com os meus avós em Guarulhos, São Paulo
 
-<!---
-joao-vitor321/joao-vitor321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-              MM    m
+
